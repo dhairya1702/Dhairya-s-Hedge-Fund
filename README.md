@@ -47,8 +47,7 @@ By using this software, you agree to use it solely for learning purposes.
 
 Clone the repository:
 ```bash
-git clone https://github.com/virattt/ai-hedge-fund.git
-cd ai-hedge-fund
+git clone https://github.com/dhairya1702/Dhairya-s-Hedge-Fund.git  
 ```
 
 1. Install Poetry (if not already installed):
@@ -152,12 +151,6 @@ ai-hedge-fund/
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-**Important**: Please keep your pull requests small and focused.  This will make it easier to review and merge.
-
-## Feature Requests
-
-If you have a feature request, please open an [issue](https://github.com/virattt/ai-hedge-fund/issues) and make sure it is tagged with `enhancement`.
 
 ## License
 
