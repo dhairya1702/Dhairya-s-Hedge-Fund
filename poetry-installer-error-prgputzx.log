@@ -1,0 +1,14 @@
+ERROR: Invalid requirement: '/Users/dhairyalalwani/.poetry': Expected package name at the start of dependency specifier
+    /Users/dhairyalalwani/.poetry
+    ^
+Hint: It looks like a path. File '/Users/dhairyalalwani/.poetry' does not exist.
+
+Traceback:
+
+  File "<stdin>", line 937, in main
+  File "<stdin>", line 574, in run
+  File "<stdin>", line 596, in install
+  File "<stdin>", line 699, in install_poetry
+  File "<stdin>", line 389, in pip
+  File "<stdin>", line 386, in python
+  File "<stdin>", line 379, in run
